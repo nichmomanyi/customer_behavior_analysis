@@ -9,39 +9,25 @@ Loaded and processed using Python, then stored in PostgreSQL for analysis
 
 🛠️ Tools & Technologies
 🐍 Python – Data loading, cleaning, and EDA
-
 Pandas, NumPy, Matplotlib, Seaborn
-
 🗄️ PostgreSQL – Data storage and querying
-
 🧠 SQL – Analytical queries
-
 📊 Power BI – Interactive dashboard
-
 📑 Gamma – Report and PowerPoint (PPT) creation
 
 🔄 Project Steps
-
 📥 Data Loading
-
 Load raw dataset into Python
-
 Validate structure and data types
 
 🔎 Exploratory Data Analysis (EDA)
-
 Analyze customer trends and distributions
-
 Identify missing values and outliers
-
 Generate summary statistics and visuals
 
 🧹 Data Cleaning
-
 Handle missing and inconsistent values
-
 Standardize formats and column names
-
 Prepare data for database storage
 
 🗄️ Database & SQL Analysis
