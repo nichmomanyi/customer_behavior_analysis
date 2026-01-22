@@ -31,17 +31,11 @@ Standardize formats and column names
 Prepare data for database storage
 
 🗄️ Database & SQL Analysis
-
 Load cleaned data into PostgreSQL
-
 Run SQL queries to answer key business questions:
-
 Customer purchase frequency
-
 Revenue trends
-
 Top-performing products
-
 Customer segmentation
 
 📊 Dashboard Development
