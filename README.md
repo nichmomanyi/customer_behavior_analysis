@@ -52,17 +52,12 @@ Create an analytical report summarizing insights
 
 Develop a PowerPoint presentation using Gamma
 
-📈 Dashboard
-
+# 📈 Dashboard
 The Power BI dashboard highlights:
-
-👥 Customer segmentation
-
-💰 Sales and revenue trends
-
-🛒 Purchase behavior analysis
-
-📌 Key performance indicators (KPIs)
+* 👥 Customer segmentation
+* 💰 Sales and revenue trends
+* 🛒 Purchase behavior analysis
+* 📌 Key performance indicators (KPIs)
 
 The dashboard is designed for clarity, interactivity, and business use.
 
