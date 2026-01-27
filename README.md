@@ -7,13 +7,13 @@ The project transforms raw customer data into meaningful insights to support dat
 * Includes demographics, purchase history, transaction values, and engagement indicators
 * Loaded and processed using Python, then stored in PostgreSQL for analysis
 
-🛠️ Tools & Technologies
-🐍 Python – Data loading, cleaning, and EDA
-Pandas, NumPy, Matplotlib, Seaborn
-🗄️ PostgreSQL – Data storage and querying
-🧠 SQL – Analytical queries
-📊 Power BI – Interactive dashboard
-📑 Gamma – Report and PowerPoint (PPT) creation
+### 🛠️ Tools & Technologies
+* 🐍 Python – Data loading, cleaning, and EDA
+* Pandas, NumPy, Matplotlib, Seaborn
+* 🗄️ PostgreSQL – Data storage and querying
+* 🧠 SQL – Analytical queries
+* 📊 Power BI – Interactive dashboard
+* 📑 Gamma – Report and PowerPoint (PPT) creation
 
 🔄 Project Steps
 📥 Data Loading
