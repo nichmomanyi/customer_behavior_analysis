@@ -16,12 +16,12 @@ The project transforms raw customer data into meaningful insights to support dat
 * 📑 Gamma – Report and PowerPoint (PPT) creation
 
 ### 🔄 Project Steps
-📥 Data Loading
-Load raw dataset into Python
-Validate structure and data types
+#### 📥 Data Loading
+- Load raw dataset into Python
+- Validate structure and data types
 
-🔎 Exploratory Data Analysis (EDA)
-Analyze customer trends and distributions
+#### 🔎 Exploratory Data Analysis (EDA)
+- Analyze customer trends and distributions
 Identify missing values and outliers
 Generate summary statistics and visuals
 
