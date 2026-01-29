@@ -15,7 +15,7 @@ The project transforms raw customer data into meaningful insights to support dat
 * 📊 Power BI – Interactive dashboard
 * 📑 Gamma – Report and PowerPoint (PPT) creation
 
-🔄 Project Steps
+### 🔄 Project Steps
 📥 Data Loading
 Load raw dataset into Python
 Validate structure and data types
