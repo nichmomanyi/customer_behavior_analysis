@@ -22,13 +22,13 @@ The project transforms raw customer data into meaningful insights to support dat
 
 #### 🔎 Exploratory Data Analysis (EDA)
 - Analyze customer trends and distributions
-Identify missing values and outliers
-Generate summary statistics and visuals
+- Identify missing values and outliers
+- Generate summary statistics and visuals
 
-🧹 Data Cleaning
-Handle missing and inconsistent values
-Standardize formats and column names
-Prepare data for database storage
+#### 🧹 Data Cleaning
+- Handle missing and inconsistent values
+- Standardize formats and column names
+- Prepare data for database storage
 
 🗄️ Database & SQL Analysis
 Load cleaned data into PostgreSQL
