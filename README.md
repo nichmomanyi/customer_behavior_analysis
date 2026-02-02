@@ -30,29 +30,23 @@ The project transforms raw customer data into meaningful insights to support dat
 - Standardize formats and column names
 - Prepare data for database storage
 
-##### 🗄️ Database & SQL Analysis
-Load cleaned data into PostgreSQL
-Run SQL queries to answer key business questions:
-Customer purchase frequency
-Revenue trends
-Top-performing products
-Customer segmentation
+#### 🗄️ Database & SQL Analysis
+- Load cleaned data into PostgreSQL
+- Run SQL queries to answer key business questions:
+- Customer purchase frequency
+- Revenue trends
+-Top-performing products
+- Customer segmentation
 
-### 📊 Dashboard Development
-
+#### 📊 Dashboard Development
 -Build an interactive Power BI dashboard
+- Visualize KPIs, trends, and customer segments
+- Enable filters for dynamic analysis
+#### 📑 Reporting & Presentation
+- Create an analytical report summarizing insights
+- Develop a PowerPoint presentation using Gamma
 
-Visualize KPIs, trends, and customer segments
-
-Enable filters for dynamic analysis
-
-📑 Reporting & Presentation
-
-Create an analytical report summarizing insights
-
-Develop a PowerPoint presentation using Gamma
-
-# 📈 Dashboard
+### 📈 Dashboard
 The Power BI dashboard highlights:
 * 👥 Customer segmentation
 * 💰 Sales and revenue trends
