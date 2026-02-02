@@ -1,4 +1,4 @@
-### 🔍 Overview
+## 🔍 Overview
 The Customer Behavior Analysis project is an end-to-end data analytics project focused on understanding customer purchasing patterns and behavior. It demonstrates practical skills in data preparation, analysis, visualization, and business reporting using widely used analytics tools.
 The project transforms raw customer data into meaningful insights to support data-driven decision-making.
 
@@ -55,11 +55,9 @@ The Power BI dashboard highlights:
 
 The dashboard is designed for clarity, interactivity, and business use.
 
-✅ Results & Insights
-
-Identified high-value and repeat customers
-
-Revealed purchasing trends and seasonal patterns
+### ✅ Results & Insights
+- Identified high-value and repeat customers
+- Revealed purchasing trends and seasonal patterns
 
 Highlighted top-performing products
 
