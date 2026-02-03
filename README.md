@@ -58,7 +58,5 @@ The dashboard is designed for clarity, interactivity, and business use.
 ### ✅ Results & Insights
 - Identified high-value and repeat customers
 - Revealed purchasing trends and seasonal patterns
-
-Highlighted top-performing products
-
-Delivered actionable insights to support marketing and sales strategies
+- Highlighted top-performing products
+- Delivered actionable insights to support marketing and sales strategies
