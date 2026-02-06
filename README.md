@@ -3,9 +3,9 @@ The Customer Behavior Analysis project is an end-to-end data analytics project f
 The project transforms raw customer data into meaningful insights to support data-driven decision-making.
 
 ### 📁 Dataset
-* Contains customer transaction and behavioral data
-* Includes demographics, purchase history, transaction values, and engagement indicators
-* Loaded and processed using Python, then stored in PostgreSQL for analysis
+- Contains customer transaction and behavioral data
+- Includes demographics, purchase history, transaction values, and engagement indicators
+- Loaded and processed using Python, then stored in PostgreSQL for analysis
 
 ### 🛠️ Tools & Technologies
 * 🐍 Python – Data loading, cleaning, and EDA
