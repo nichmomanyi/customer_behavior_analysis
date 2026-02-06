@@ -9,7 +9,7 @@ The project transforms raw customer data into meaningful insights to support dat
 
 ### 🛠️ Tools & Technologies
 - 🐍 Python – Data loading, cleaning, and EDA
-* Pandas, NumPy, Matplotlib, Seaborn
+- Pandas, NumPy, Matplotlib, Seaborn
 * 🗄️ PostgreSQL – Data storage and querying
 * 🧠 SQL – Analytical queries
 * 📊 Power BI – Interactive dashboard
