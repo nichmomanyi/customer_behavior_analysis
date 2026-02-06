@@ -8,7 +8,7 @@ The project transforms raw customer data into meaningful insights to support dat
 - Loaded and processed using Python, then stored in PostgreSQL for analysis
 
 ### 🛠️ Tools & Technologies
-* 🐍 Python – Data loading, cleaning, and EDA
+- 🐍 Python – Data loading, cleaning, and EDA
 * Pandas, NumPy, Matplotlib, Seaborn
 * 🗄️ PostgreSQL – Data storage and querying
 * 🧠 SQL – Analytical queries
